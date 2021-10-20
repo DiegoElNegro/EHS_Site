@@ -1,0 +1,50 @@
+body{
+    background-color: red;
+}
+h1{
+    text-align: center;
+}
+a:link{
+    
+}
+a:visited{
+    
+}
+a:hover{
+    
+}
+a{
+    
+}
+p{
+    
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+div.header{
+    background-color:#FFFFFF;
+    width: 100%;
+}
+div.right{
+    float: right;
+    width: 30%;
+    height: 500px;
+    background-color:#11336A;
+}
+div.left{
+    float: left;
+    width: 30%;
+    height: 500px;
+    background-color:#D71920;
+}
+div.footer{
+    
+    
+}
+div.child{
+    float: 
+}
